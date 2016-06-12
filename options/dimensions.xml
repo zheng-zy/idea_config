@@ -1,0 +1,21 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1366.768" x="552" y="54" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="643" y="349" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="577" y="193" />
+    <location key="SettingsEditor.0.0.1366.768" x="164" y="18" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="117" />
+    <location key="OptionsEditor.0.0.1366.768" x="163" y="0" />
+    <location key="#Project_Structure.0.0.1366.768" x="163" y="0" />
+    <location key="findTextDialog.0.0.1366.768" x="473" y="110" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1366.768" x="399" y="219" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="263" y="17" />
+    <location key="#Tomcat_Server.0.0.1366.768" x="463" y="250" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="17" />
+    <size key="new project wizard.0.0.1366.768" width="777" height="666" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="171" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="171" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="171" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="171" />
+  </component>
+</application>

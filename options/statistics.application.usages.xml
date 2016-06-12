@@ -1,0 +1,48 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="helloworld" values="DEFAULT" collectionTime="1464446860846" />
+      <project id="HTMLDemo" values="DEFAULT" collectionTime="1464432547562" />
+    </group>
+    <group name="module type">
+      <project id="helloworld" values="JAVA_MODULE" collectionTime="1464446860783" />
+      <project id="HTMLDemo" values="WEB_MODULE" collectionTime="1464432547119" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="helloworld" values="Application" collectionTime="1464446860784" />
+    </group>
+    <group name="file-type">
+      <project id="helloworld" values="PLAIN_TEXT,IDEA_MODULE,UNKNOWN,XML,JAVA" collectionTime="1464446860837" />
+      <project id="HTMLDemo" values="IDEA_MODULE,UNKNOWN,XML,PLAIN_TEXT" collectionTime="1464432547285" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="helloworld" values="Project,Project" collectionTime="1464446860846" />
+      <project id="HTMLDemo" values="Project,Project" collectionTime="1464432547562" />
+    </group>
+    <group name="language-level">
+      <project id="helloworld" values="JDK_1_7" collectionTime="1464446860844" />
+      <project id="HTMLDemo" values="JDK_1_6" collectionTime="1464432547292" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.Application.Run" count="4" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Compiler" count="1" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="1" />
+      <entry feature="ide.settings.Live_Templates" count="1" />
+      <entry feature="ide.settings.Postfix_Completion" count="3" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>
