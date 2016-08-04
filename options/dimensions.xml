@@ -15,6 +15,8 @@
     <location key="NewModule_or_Project.wizard.0.0.1366.768" x="321" y="0" />
     <location key="ProcessPopupWindow.0.0.1366.768" x="779" y="509" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="624" y="57" />
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="500" y="169" />
+    <location key="SettingsEditor.0.0.1440.900" x="201" y="84" />
     <size key="new project wizard.0.0.1366.768" width="777" height="666" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="146" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="146" />
@@ -25,5 +27,9 @@
     <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="213" />
     <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="213" />
     <size key="ProcessPopupWindow.0.0.1366.768" width="417" height="117" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1396" height="383" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1396" height="383" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1396" height="383" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1396" height="383" />
   </component>
 </application>

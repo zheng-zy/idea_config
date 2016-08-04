@@ -1,38 +1,53 @@
 <application>
   <component name="StatisticsApplicationUsages">
+    <group name="svn working copy format">
+      <project id="helios" values="1.8" collectionTime="1470191665490" />
+    </group>
     <group name="JavaScript versions">
       <project id="seckill" values="DEFAULT" collectionTime="1465896947315" />
+      <project id="zssm" values="DEFAULT" collectionTime="1465896943168" />
       <project id="helloworld" values="DEFAULT" collectionTime="1465887071851" />
       <project id="HTMLDemo" values="DEFAULT" collectionTime="1464432547562" />
-      <project id="zssm" values="DEFAULT" collectionTime="1465896943168" />
+      <project id="helios" values="DEFAULT" collectionTime="1470191665502" />
     </group>
     <group name="module type">
       <project id="seckill" values="JAVA_MODULE" collectionTime="1465896947265" />
+      <project id="zssm" values="JAVA_MODULE" collectionTime="1465896943124" />
       <project id="helloworld" values="JAVA_MODULE" collectionTime="1465887071044" />
       <project id="HTMLDemo" values="WEB_MODULE" collectionTime="1464432547119" />
-      <project id="zssm" values="JAVA_MODULE" collectionTime="1465896943124" />
+      <project id="helios" values="JAVA_MODULE" collectionTime="1470191665207" />
+    </group>
+    <group name="vcs">
+      <project id="helios" values="svn" collectionTime="1470191665206" />
+    </group>
+    <group name="Spring Boot">
+      <project id="helios" values="application.properties" collectionTime="1470191665613" />
     </group>
     <group name="run-configuration-type">
       <project id="helloworld" values="Application" collectionTime="1465887071045" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="zssm" values="Application,JUnit" collectionTime="1465896943124" />
+      <project id="helios" values="JUnit" collectionTime="1470191665208" />
     </group>
     <group name="file-type">
-      <project id="seckill" values="PLAIN_TEXT,JSP,UNKNOWN,XML,JAVA,IDEA_MODULE" collectionTime="1465896947311" />
-      <project id="helloworld" values="UNKNOWN,IDEA_MODULE,JAVA,XML,PLAIN_TEXT" collectionTime="1465887071193" />
-      <project id="HTMLDemo" values="IDEA_MODULE,UNKNOWN,XML,PLAIN_TEXT" collectionTime="1464432547285" />
-      <project id="zssm" values="UNKNOWN,Properties,Manifest,JAVA,IDEA_MODULE,HTML,SourceMap,PLAIN_TEXT,XML,JSP,CSS,JavaScript" collectionTime="1465896943165" />
+      <project id="seckill" values="UNKNOWN,XML,IDEA_MODULE,JSP,PLAIN_TEXT,JAVA" collectionTime="1465896947311" />
+      <project id="zssm" values="Manifest,JSP,JAVA,IDEA_MODULE,Properties,PLAIN_TEXT,XML,HTML,SourceMap,UNKNOWN,CSS,JavaScript" collectionTime="1465896943165" />
+      <project id="helloworld" values="PLAIN_TEXT,UNKNOWN,JAVA,XML,IDEA_MODULE" collectionTime="1465887071193" />
+      <project id="HTMLDemo" values="UNKNOWN,PLAIN_TEXT,XML,IDEA_MODULE" collectionTime="1464432547285" />
+      <project id="helios" values="SQL,Properties,PLAIN_TEXT,JAVA,Eclipse,IDEA_MODULE,UNKNOWN,XML" collectionTime="1470191665347" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="seckill" values="Project,Project" collectionTime="1465896947315" />
+      <project id="zssm" values="Project,Project" collectionTime="1465896943168" />
       <project id="helloworld" values="Project,Project" collectionTime="1465887071851" />
       <project id="HTMLDemo" values="Project,Project" collectionTime="1464432547562" />
-      <project id="zssm" values="Project,Project" collectionTime="1465896943168" />
+      <project id="helios" values="Project,Project" collectionTime="1470191665502" />
     </group>
     <group name="libraries">
-      <project id="seckill" values="spring,spring-mvc" collectionTime="1465896947311" />
-      <project id="zssm" values="spring-mvc,spring,JsonProcessing,jsf,BeanValidation,WebSocket,JAX-WS,ConnectorArchitecture,BatchApplications,CDI,EJB,JMS,ConcurrencyUtilsForJavaee,TransactionJavaee" collectionTime="1465896943165" />
+      <project id="seckill" values="spring-mvc,spring" collectionTime="1465896947311" />
+      <project id="zssm" values="spring,WebSocket,spring-mvc,TransactionJavaee,JsonProcessing,CDI,JMS,EJB,BatchApplications,JAX-WS,ConnectorArchitecture,BeanValidation,jsf,ConcurrencyUtilsForJavaee" collectionTime="1465896943165" />
+      <project id="helios" values="BeanValidation,spring-boot,WebSocket,spring-mvc,spring,EJB" collectionTime="1470191665440" />
     </group>
     <group name="frameworks">
       <project id="seckill" values="web" collectionTime="1465896947265" />
@@ -40,16 +55,17 @@
     </group>
     <group name="language-level">
       <project id="seckill" values="JDK_1_5,JDK_1_7" collectionTime="1465896947313" />
+      <project id="zssm" values="JDK_1_7" collectionTime="1465896943166" />
       <project id="helloworld" values="JDK_1_7" collectionTime="1465887071224" />
       <project id="HTMLDemo" values="JDK_1_6" collectionTime="1464432547292" />
-      <project id="zssm" values="JDK_1_7" collectionTime="1465896943166" />
+      <project id="helios" values="JDK_1_8" collectionTime="1470191665489" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="execute.Application.Run" count="6" />
       <entry feature="execute.JUnit.Debug" count="1" />
-      <entry feature="execute.JUnit.Run" count="6" />
+      <entry feature="execute.JUnit.Run" count="11" />
       <entry feature="ide.settings.Appearance" count="5" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
       <entry feature="ide.settings.Compiler" count="1" />
@@ -63,9 +79,11 @@
       <entry feature="ide.settings.Live_Templates" count="1" />
       <entry feature="ide.settings.Postfix_Completion" count="3" />
       <entry feature="ide.settings.Project_Structure" count="3" />
+      <entry feature="ide.settings.Subversion" count="1" />
       <entry feature="ide.settings.Tomcat_Server" count="1" />
       <entry feature="ide.settings.Version_Control" count="1" />
-      <entry feature="ideaapp.started" count="6" />
+      <entry feature="ideaapp.started" count="7" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="1" />
       <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="6" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="2" />
